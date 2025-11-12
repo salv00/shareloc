@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 21
+Implementation-Title: shareloc
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: com.cdad.shareloc.SharelocApplication
+Created-By: Maven Integration for Eclipse
+
